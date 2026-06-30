@@ -1,0 +1,6 @@
+cat hello.sh
+#!/bin/bash
+name="$1"
+echo "Hello, $name"
+echo "right now the time is $(date)"
+                                      
